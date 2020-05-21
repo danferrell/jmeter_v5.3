@@ -1,0 +1,106 @@
+2020-05-20 10:46:09,471 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2020-05-20 10:46:09,481 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2020-05-20 10:46:09,482 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-05-20 10:46:09,483 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2020-05-20 10:46:09,483 INFO o.a.j.JMeter: Version 5.3
+2020-05-20 10:46:09,483 INFO o.a.j.JMeter: java.version=1.8.0_251
+2020-05-20 10:46:09,483 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) Client VM
+2020-05-20 10:46:09,483 INFO o.a.j.JMeter: os.name=Windows 10
+2020-05-20 10:46:09,483 INFO o.a.j.JMeter: os.arch=x86
+2020-05-20 10:46:09,483 INFO o.a.j.JMeter: os.version=10.0
+2020-05-20 10:46:09,484 INFO o.a.j.JMeter: file.encoding=Cp1252
+2020-05-20 10:46:09,484 INFO o.a.j.JMeter: java.awt.headless=null
+2020-05-20 10:46:09,484 INFO o.a.j.JMeter: Max memory     =1073741824
+2020-05-20 10:46:09,484 INFO o.a.j.JMeter: Available Processors =8
+2020-05-20 10:46:09,488 INFO o.a.j.JMeter: Default Locale=English (EN)
+2020-05-20 10:46:09,488 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2020-05-20 10:46:09,488 INFO o.a.j.JMeter: JMeterHome=C:\Users\DanFerrell\Documents\jmeter_install\apache-jmeter-5.3\apache-jmeter-5.3
+2020-05-20 10:46:09,488 INFO o.a.j.JMeter: user.dir  =C:\Users\DanFerrell\Documents\jmeter_install\apache-jmeter-5.3\apache-jmeter-5.3\bin
+2020-05-20 10:46:09,488 INFO o.a.j.JMeter: PWD       =C:\Users\DanFerrell\Documents\jmeter_install\apache-jmeter-5.3\apache-jmeter-5.3\bin
+2020-05-20 10:46:09,491 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: DFerrell-E840 FullName: DFerrell-E840
+2020-05-20 10:46:09,559 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2020-05-20 10:46:09,739 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2020-05-20 10:46:11,743 INFO o.j.r.JARSourceHTTP: Found cached repo
+2020-05-20 10:46:11,871 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-autostop=0.1, blazemeter-debugger=0.6, jpgc-sense=3.5, jpgc-cmd=2.2, jpgc-graphs-composite=2.0, jpgc-csl=0.1, jpgc-functions=2.1, jpgc-casutg=2.9, jpgc-dbmon=0.1, jpgc-directory-listing=0.3, jpgc-graphs-dist=2.0, jpgc-dummy=0.4, jpgc-filterresults=2.2, jpgc-ffw=2.0, jpgc-ggl=2.0, jpgc-httpraw=0.1, bzm-http2=1.5, jpgc-fifo=0.2, jpgc-jms=0.2, jpgc-jmxmon=0.3, jmeter.pack-listener=1.7, jpgc-graphs-vs=2.0, jpgc-mergeresults=2.1, jpgc-pde=0.1, bzm-parallel=0.9, jpgc-prmctl=0.4, jpgc-perfmon=2.1, jpgc-plugins-manager=1.4, jpgc-webdriver=3.1, jpgc-synthesis=2.2, jpgc-plancheck=2.4, jpgc-tst=2.5, jpgc-csvars=0.1, jpgc-wsc=0.7, jpgc-xml=0.1, jmeter-core=5.3, jmeter-ftp=5.3, jmeter-http=5.3, jmeter-jdbc=5.3, jmeter-jms=5.3, jmeter-junit=5.3, jmeter-java=5.3, jmeter-ldap=5.3, jmeter-mail=5.3, jmeter-mongodb=5.3, jmeter-native=5.3, jmeter-tcp=5.3, jmeter-components=5.3, jpgc-standard=2.0]
+2020-05-20 10:46:13,402 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-20 10:46:13,403 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-20 10:46:13,403 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-20 10:46:13,403 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-20 10:46:13,403 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-05-20 10:46:13,403 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-05-20 10:46:13,543 WARN o.a.j.u.JMeterUtils: no icon for toolbar/19x19arrow-right-3.png
+2020-05-20 10:46:13,547 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-05-20 10:46:13,547 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-05-20 10:46:13,547 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-05-20 10:46:13,547 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-05-20 10:46:14,124 WARN o.a.j.g.ObjectTableModel: Header count=13 but classes count=11
+2020-05-20 10:46:14,124 WARN o.a.j.g.ObjectTableModel: Header count=13 but writeFunctor count=11
+2020-05-20 11:17:01,938 INFO o.a.j.s.FileServer: Default base='C:\Users\DanFerrell\Documents\jmeter_install\apache-jmeter-5.3\apache-jmeter-5.3\bin'
+2020-05-20 11:17:01,949 INFO o.a.j.g.a.Load: Loading file: C:\Users\DanFerrell\Documents\jmeter_scripts\TRAMS\05132020\TRAMS .jmx
+2020-05-20 11:17:01,950 INFO o.a.j.s.FileServer: Set new base='C:\Users\DanFerrell\Documents\jmeter_scripts\TRAMS\05132020'
+2020-05-20 11:17:02,077 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-05-20 11:17:02,087 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-05-20 11:17:02,088 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-05-20 11:17:02,090 INFO o.a.j.s.SaveService: Loading file: C:\Users\DanFerrell\Documents\jmeter_scripts\TRAMS\05132020\TRAMS .jmx
+2020-05-20 11:17:02,378 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2020-05-20 11:17:02,379 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2020-05-20 11:17:03,206 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-05-20 11:17:03,206 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-05-20 11:17:03,717 INFO o.a.j.s.FileServer: Set new base='C:\Users\DanFerrell\Documents\jmeter_scripts\TRAMS\05132020'
+2020-05-20 11:17:22,199 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-05-20 11:17:22,199 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-05-20 11:17:22,200 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-05-20 11:17:22,245 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2020-05-20 11:17:22,562 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : TRAMS_TC01 - Smoke Test
+2020-05-20 11:17:22,563 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group TRAMS_TC01 - Smoke Test.
+2020-05-20 11:17:22,564 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-05-20 11:17:22,564 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=0 delayedStart=false
+2020-05-20 11:17:22,570 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-05-20 11:17:22,570 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : TRAMS_TC02 - Smoke Test
+2020-05-20 11:17:22,570 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group TRAMS_TC02 - Smoke Test.
+2020-05-20 11:17:22,570 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-05-20 11:17:22,570 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=0 delayedStart=false
+2020-05-20 11:17:22,575 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2020-05-20 11:17:22,575 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 3 : TRAMS_TC03 - Smoke Test
+2020-05-20 11:17:22,575 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group TRAMS_TC03 - Smoke Test.
+2020-05-20 11:17:22,575 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-05-20 11:17:22,575 INFO o.a.j.t.ThreadGroup: Starting thread group... number=3 threads=1 ramp-up=0 delayedStart=false
+2020-05-20 11:17:22,575 INFO o.a.j.t.JMeterThread: Thread started: TRAMS_TC01 - Smoke Test 1-1
+2020-05-20 11:17:22,578 INFO o.a.j.t.JMeterThread: Thread started: TRAMS_TC02 - Smoke Test 2-1
+2020-05-20 11:17:22,580 INFO o.a.j.t.ThreadGroup: Started thread group number 3
+2020-05-20 11:17:22,580 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 4 : TRAMS_TC04 - Smoke Test
+2020-05-20 11:17:22,580 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group TRAMS_TC04 - Smoke Test.
+2020-05-20 11:17:22,580 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-05-20 11:17:22,580 INFO o.a.j.t.ThreadGroup: Starting thread group... number=4 threads=1 ramp-up=0 delayedStart=false
+2020-05-20 11:17:22,583 INFO o.a.j.t.ThreadGroup: Started thread group number 4
+2020-05-20 11:17:22,583 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 5 : TRAMS_TC05 - Smoke Test
+2020-05-20 11:17:22,583 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DFerrell-E840
+2020-05-20 11:17:22,583 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group TRAMS_TC05 - Smoke Test.
+2020-05-20 11:17:22,583 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-05-20 11:17:22,583 INFO o.a.j.t.ThreadGroup: Starting thread group... number=5 threads=1 ramp-up=0 delayedStart=false
+2020-05-20 11:17:22,583 INFO o.a.j.t.JMeterThread: Thread started: TRAMS_TC03 - Smoke Test 3-1
+2020-05-20 11:17:22,586 INFO o.a.j.t.JMeterThread: Thread started: TRAMS_TC04 - Smoke Test 4-1
+2020-05-20 11:17:22,587 INFO o.a.j.t.ThreadGroup: Started thread group number 5
+2020-05-20 11:17:22,587 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-05-20 11:17:22,587 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2020-05-20 11:17:22,591 INFO o.a.j.t.JMeterThread: Thread started: TRAMS_TC05 - Smoke Test 5-1
+2020-05-20 11:17:22,593 INFO o.a.j.s.FileServer: Stored: resources/test_case5_applid.txt
+2020-05-20 11:17:22,716 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2020-05-20 11:17:22,718 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2020-05-20 11:17:22,718 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2020-05-20 11:17:22,743 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2020-05-20 11:17:22,744 INFO o.a.j.u.SSLManager: KeyStore created OK
+2020-05-20 11:17:22,744 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2020-05-20 11:17:39,652 INFO o.a.j.t.JMeterThread: Thread is done: TRAMS_TC03 - Smoke Test 3-1
+2020-05-20 11:17:39,652 INFO o.a.j.t.JMeterThread: Thread finished: TRAMS_TC03 - Smoke Test 3-1
+2020-05-20 11:17:42,592 INFO o.a.j.t.JMeterThread: Thread is done: TRAMS_TC02 - Smoke Test 2-1
+2020-05-20 11:17:42,593 INFO o.a.j.t.JMeterThread: Thread finished: TRAMS_TC02 - Smoke Test 2-1
+2020-05-20 11:17:44,060 INFO o.a.j.t.JMeterThread: Thread is done: TRAMS_TC04 - Smoke Test 4-1
+2020-05-20 11:17:44,060 INFO o.a.j.t.JMeterThread: Thread finished: TRAMS_TC04 - Smoke Test 4-1
+2020-05-20 11:17:45,155 INFO o.a.j.t.JMeterThread: Thread is done: TRAMS_TC05 - Smoke Test 5-1
+2020-05-20 11:17:45,155 INFO o.a.j.t.JMeterThread: Thread finished: TRAMS_TC05 - Smoke Test 5-1
+2020-05-20 11:18:36,627 INFO o.a.j.t.JMeterThread: Thread is done: TRAMS_TC01 - Smoke Test 1-1
+2020-05-20 11:18:36,628 INFO o.a.j.t.JMeterThread: Thread finished: TRAMS_TC01 - Smoke Test 1-1
+2020-05-20 11:18:36,630 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-05-20 11:18:36,631 INFO o.a.j.s.FileServer: Close: resources/test_case5_applid.txt
+2020-05-20 11:18:36,635 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
